@@ -9,4 +9,5 @@ if [ $diskUsage -gt $30 ]; then
     echo -e "Subject: Disk Usage Alert" | sendmail -v "nehamadhusudhanmn@gmail.com"
 fi
 
-
+echo "this is a test"
+echo "new test"
