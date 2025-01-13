@@ -11,3 +11,4 @@ fi
 
 echo "this is a test"
 echo "new test"
+echo "testing the fetch"
